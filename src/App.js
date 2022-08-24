@@ -1,12 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import navBar from "./components/navBar";
+
 
 function App() {
   return (
-    <div className="App">
-      <h1> hola mundo</h1>
-      <p> CODERHOUSE
-      </p>
+    <div>
+      <navBar />
+      <div>
+        <h1> hola mundo</h1>
+        <p> CODERHOUSE STORE </p>
+      </div>
+      <footer></footer>
     </div>
   );
 }
