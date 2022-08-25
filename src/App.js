@@ -1,12 +1,12 @@
 import logo from "./logo.svg";
 import "./App.css";
-import navBar from "./components/navBar";
+import NavBar from "./components/NavBar";
 
 
 function App() {
   return (
     <div>
-      <navBar />
+      <NavBar />
       <div>
         <h1> hola mundo</h1>
         <p> CODERHOUSE STORE </p>

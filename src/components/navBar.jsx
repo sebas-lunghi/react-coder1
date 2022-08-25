@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function navBar() {
 
-    let estiloNav = {color: red}
+    let estiloNav = {color: "red"}
    
   return (
     <div >
