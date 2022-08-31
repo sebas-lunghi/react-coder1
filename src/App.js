@@ -6,6 +6,7 @@ import { dividerClasses } from "@mui/material";
 import Bienvenida from "./components/Bienvenida";
 import Productos from "./components/Productos";
 import ListaDeProductosContainer from "./components/ListaDeProductosContainer";
+import ListaDeProductosLayout from "./components/ListaDeProductosLayout";
 
 function App() {
 
