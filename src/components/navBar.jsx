@@ -11,7 +11,7 @@ export default function navBar() {
                 Inicio
             </li>
             <li>
-                Modelos
+                Models
             </li>
             <li>
                 Contacto
